@@ -1,1 +1,1 @@
-add_lunch_combo cm_castor_windy-eng
+add_lunch_combo yoshi_castor_windy-userdebug
